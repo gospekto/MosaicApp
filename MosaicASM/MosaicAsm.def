@@ -1,0 +1,2 @@
+LIBRARY MosaicASM 
+EXPORTS ApplyMosaic

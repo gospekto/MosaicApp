@@ -1,0 +1,11 @@
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\bin\Debug\net6.0\MosaicC.deps.json
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\bin\Debug\net6.0\MosaicC.dll
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\bin\Debug\net6.0\MosaicC.pdb
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\obj\Debug\net6.0\MosaicC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\obj\Debug\net6.0\MosaicC.AssemblyInfoInputs.cache
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\obj\Debug\net6.0\MosaicC.AssemblyInfo.cs
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\obj\Debug\net6.0\MosaicC.csproj.CoreCompileInputs.cache
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\obj\Debug\net6.0\MosaicC.dll
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\obj\Debug\net6.0\refint\MosaicC.dll
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\obj\Debug\net6.0\MosaicC.pdb
+C:\Users\gospekto\source\repos\MosaicProgram\MosaicC\obj\Debug\net6.0\ref\MosaicC.dll

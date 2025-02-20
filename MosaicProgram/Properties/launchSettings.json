@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MosaicProgram": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
